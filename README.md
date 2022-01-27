@@ -11,7 +11,7 @@
  - Clone this git repository
  ```
  $ cd Basic-Shell-Implementation
- ./turtle
+ $ ./turtle
  ```
  - ***sample-test-cases.txt*** contains some sample linux command test cases for your reference 
 
