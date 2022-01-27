@@ -10,8 +10,8 @@
 ## How to run the program 
  - Clone this git repository
  ```
- - $ cd Basic-Shell-Implementation
- - ./turtle
+ $ cd Basic-Shell-Implementation
+ ./turtle
  ```
  - ***sample-test-cases.txt*** contains some sample linux command test cases for your reference 
 
